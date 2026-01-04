@@ -68,3 +68,10 @@ A voice recognition-based tool for translating languages in real-time. This tool
 [![Kaggle](https://img.shields.io/badge/-Kaggle-3295bd?style=for-the-badge&logo=kaggle&logoColor=white)](https://www.kaggle.com/gunarakulangr)
 [![TikTok](https://img.shields.io/badge/-TikTok-579ea3?style=for-the-badge&logo=tiktok&logoColor=white)](https://www.tiktok.com/@gunarakulangunaretnam)
 [![YouTube](https://img.shields.io/badge/-YouTube-a82121?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/channel/UCjMOdgHFAjAdBKiqV8y2Tww)
+
+
+
+# cd "C:\Users\Shashank\Downloads\AI real time Language translator\real-time-language-translator\soruce"
+
+# python -m streamlit run main.py
+
